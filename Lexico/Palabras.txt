@@ -1,0 +1,21 @@
+' ! - " ( ) $ , . / :local ; ? @ [] | < + <= == => >= * != add and array bool break byte case catch char class copy def del div do double else elsif end false finally float for func if include initialize int invoke mul nand nor new not null or package pot print private
+sin cos tan asin acos atan log loge logn fac avg abs fraction read enum list stack queue property as is get set sort by asc desc switch object virtual abstract constant final interface STRING INT FLOAT VAR goto { } struct union sizeof typeof replace max min count each matrix require implements extends package property res draw vector ref search size resize inspect dir like equals where regex top bot middle cot times begin porcent write push pop remove split lenght merge reverse round aleatorio between next prev bit DIR beep graphics color font fontsize nil default close time date TIME DATE  help create global val eval file stream open readAll exit absent maybe repeat point protected public puts return self sqrt static string sub true try until var void when while @Override 
+"Soy un string"
+#Soy un comentario
+'C' 
+abc
+var1
+var2
+var2
+var5
+	
+var3
+var1
+var1
+var5
+var2
+x y z
+x
+y
+z
+a a a

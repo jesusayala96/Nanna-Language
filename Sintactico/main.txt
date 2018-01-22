@@ -1,0 +1,101 @@
+package programa.ejemplo;
+
+#Esto es un comentario
+
+require libreria1;
+require libreria2;
+
+class main extends heredada implements interfaz,interfac,iterfas
+
+def initialize (){
+	puts 'Nueva clase';
+}
+
+def var variable1 (int,private,final,20);
+:local (int,);
+def array arreglo(5){10,2,4,5,6,4,5,6};
+:local2 (string,'jojoj');
+
+add(:local,metodo());
+
+FLOAT(variable1);
+
+def property propiedad(variable1){
+	get {variable1}
+	set {value}
+}
+
+x=a.b.c[3];
+#holabb
+{
+:local3 (string,'jojoj');
+	main.new();
+	round(variable1,0);
+	beep;
+	{
+		sort asc (arreglo);
+		beep;
+		
+
+	} if (variable1<=:local and x==y )
+
+
+} if (variable1>:local)
+
+else
+{
+	inspect(:local);
+	cos(x,90);
+
+	arreglo each do |:x|{
+	ref(arreglo);
+	{
+		main.new();
+		round(variable1,0);
+		beep;
+		
+
+	} if (variable1<=:local and x==y )
+	}
+}
+
+def void prueba(int x, string s)
+{
+	10 times do {
+	x=x+1;
+	break;
+	}
+
+	'string' union (x) 'mas texto';
+}
+
+
+invoke prueba(variable1,:local);
+
+interface interfaz
+
+def func test(){
+	arreglo where arreglo like 10;
+
+	split('o') :local2;
+
+	begin dir (open,'direciconarchivo',x);
+
+	push (arreglo,30);
+	resize(arreglo);
+
+	{
+	:local4 (string,'jojoj');
+		main.new();
+		round(variable1,0);
+		beep;
+		
+
+	} if (variable1<=:local and x==y )
+
+
+	return x;
+}
+
+end
+end
